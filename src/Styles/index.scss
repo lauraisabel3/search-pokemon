@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/bootstrap";
+@import "custom";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  --brown: #f69100;
+}
+
+
+body {
+  background-color: #ffe8cd;
+}
